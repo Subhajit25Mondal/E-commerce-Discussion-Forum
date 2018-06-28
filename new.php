@@ -99,8 +99,8 @@
            }
            else{
            
-     $con = mysqli_connect("localhost","root","");
-    mysqli_select_db($con,"forum");
+     $con = mysqli_connect("","","");
+    mysqli_select_db($con,"");
 
            
 date_default_timezone_set('Asia/Kolkata');                                          //TIME
