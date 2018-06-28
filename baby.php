@@ -20,16 +20,16 @@
     
     <div class="jumbotron">
       <div class="container">
-        <h1 class="display-3">Forums</h1>
+        <h1 class="display-3">Forums :  Baby & Kids</h1>
 
         <nav class="navbar navbar-expand-sm navbar-light">
             <div class="navbar-nav">
-              <a class="nav-item nav-link active" href="index.php">All <span class="sr-only">(current)</span></a>
+              <a class="nav-item nav-link" href="index.php">All <span class="sr-only">(current)</span></a>
               <a class="nav-item nav-link" href="electronics.php">Electronics</a>
               <a class="nav-item nav-link" href="tv.php">TV & Appliances</a>
               <a class="nav-item nav-link" href="men.php">Men</a>
               <a class="nav-item nav-link" href="women.php">Women</a>
-              <a class="nav-item nav-link" href="baby.php">Baby & Kids</a>
+              <a class="nav-item nav-link active" href="baby.php">Baby & Kids</a>
               <a class="nav-item nav-link" href="home.php">Home & Furniture</a>
               <a class="nav-item nav-link" href="sports.php">Sports & Books</a>
               <a class="nav-item nav-link" href="others.php">Others</a>
@@ -67,7 +67,7 @@
             $con = mysqli_connect("localhost","root","");
 mysqli_select_db($con,"forum");
             
-            $insert_query = "select * from forum order by id desc";
+            $insert_query = "select * from forum where topic='Baby & Kids' order by id desc";
             $res=mysqli_query($con, $insert_query);
            // $arr=mysqli_fetch_array($res);  
             
