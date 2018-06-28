@@ -22,7 +22,7 @@ This is a simple E-commerce Discussion forum designed completely in PHP. This fo
 2. Place the files and alter the db credentials.
 3. Run Index.php and you are ready to go.
 
-### Note: For Setup Guide. Feel free to post an Issue.
+### [Note: For Setup Guide. Feel free to post an Issue.]
 
 ## Demo
 [Click Here](http://subhajit.epizy.com/forum/) 
