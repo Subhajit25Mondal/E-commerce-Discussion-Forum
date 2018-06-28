@@ -1,4 +1,3 @@
-                          Show your support by 🌟 the project!!
 <img width="636" alt="abc" src="https://user-images.githubusercontent.com/27961735/42053047-22fedd54-7b2e-11e8-9e17-845a3e1baf81.png">
 
 # E-Commerce Discussion Forum
@@ -17,5 +16,19 @@ This is a simple E-commerce Discussion forum designed completely in PHP. This fo
 <img width="960" alt="capturedgsghdrhdd" src="https://user-images.githubusercontent.com/27961735/42053635-a73f41de-7b2f-11e8-80c1-9773093b824d.PNG">
 <img width="960" alt="capturewfwfwgwegwr" src="https://user-images.githubusercontent.com/27961735/42053631-a62ddba2-7b2f-11e8-9703-d9bc5fe03fac.PNG">
 
+### Setup in local Server
+1. Install Xampp or Wampp Server.
+2. Place the files and alter the db credentials.
+3. Run Index.php and you are ready to go.
 
- 
+### Note: For Setup Guide. Feel free to post an Issue.
+
+## Demo
+[Click Here](http://subhajit.epizy.com/forum/) 
+
+## Contribute
+Show your support by 🌟 the project!!
+Please mention the author.
+
+## LICENSE
+MIT License
