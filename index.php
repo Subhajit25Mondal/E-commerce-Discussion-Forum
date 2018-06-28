@@ -64,8 +64,8 @@
             
     <?php        
             
-            $con = mysqli_connect("localhost","root","");
-mysqli_select_db($con,"forum");
+            $con = mysqli_connect("","","");
+mysqli_select_db($con,"");
             
             $insert_query = "select * from forum order by id desc";
             $res=mysqli_query($con, $insert_query);
