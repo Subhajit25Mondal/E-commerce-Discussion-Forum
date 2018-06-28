@@ -1,3 +1,4 @@
+                   Designed with ❤️ by Subhajit Mondal
 <img width="636" alt="abc" src="https://user-images.githubusercontent.com/27961735/42053047-22fedd54-7b2e-11e8-9e17-845a3e1baf81.png">
 
 # E-Commerce Discussion Forum
